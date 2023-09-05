@@ -1598,3 +1598,7 @@ a.product__text {
     border: none;
   }
 }
+.bndlr-add-to-cart{
+  background: #0e1b4d !important;
+  border-radius: 30px !important;
+}
