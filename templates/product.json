@@ -48,13 +48,6 @@
           "settings": {
           }
         },
-        "9348d6cd-c266-409c-ae7f-53c767a8df70": {
-          "type": "popup",
-          "settings": {
-            "text": "Size Chart",
-            "page": "bundles"
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -71,7 +64,6 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "9348d6cd-c266-409c-ae7f-53c767a8df70",
         "share"
       ],
       "settings": {
